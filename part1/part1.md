@@ -51,4 +51,4 @@
 17. How are you? ; The first if statement is skipped because true == 1. The else if statement is triggered because any number other than
     0 is converted to true.
 
-18. 
+19. 
