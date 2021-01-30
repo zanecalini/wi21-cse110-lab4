@@ -1,6 +1,6 @@
 
 part 1: 
-![breakpoint ss] (breakpoints ss.png)
+![breakpoint ss](breakpoints ss.png)
 
 
 
