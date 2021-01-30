@@ -1,6 +1,14 @@
 
-part 1: 
+
 ![breakpoint ss](https://raw.githubusercontent.com/zanecalini/wi21-cse110-lab4/main/part%203/breakpoints%20ss.PNG)
+![watch expressions](https://raw.githubusercontent.com/zanecalini/wi21-cse110-lab4/main/part%203/watch%20ss.PNG)
+
+part 1:
+   Due to the fact that we see the type of "result" is a string, this means the two numbers were being concatenated rather than added.
+   We simply fix this by parsing the strings as ints.
+   
+![watch expressions](https://raw.githubusercontent.com/zanecalini/wi21-cse110-lab4/main/part%203/watch%20ss.PNG)   
+
 
 
 
