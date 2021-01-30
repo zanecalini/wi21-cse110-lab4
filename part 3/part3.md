@@ -1,6 +1,6 @@
 
 part 1: 
-![breakpoint ss](breakpoints ss.png)
+![breakpoint ss](https://raw.githubusercontent.com/zanecalini/wi21-cse110-lab4/main/part%203/breakpoints%20ss.PNG)
 
 
 
